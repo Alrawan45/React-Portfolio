@@ -1,0 +1,32 @@
+.footer-area .contact-area>a {
+    color: var(--primary-color);
+}
+
+.footer-area .follow .fwl>a {
+    color: rgba(0, 0, 0, 0.514);
+    padding: 2rem;
+    font-size: 1.5rem;
+
+}
+
+.footer-area .follow .fwl>a:hover {
+    color: red;
+}
+
+.footer-area .follow .fwl {
+    display: flex;
+    justify-content: center;
+}
+.footer-area .design >a {
+    color: red;
+} 
+ .footer-area .contact-area a{
+    color: red;
+    font-weight: 600;
+
+    text-decoration: none;
+    padding-top: 0.5rem;
+}
+.footer-area .contact-area a:hover{
+    color: black;
+}

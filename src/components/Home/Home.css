@@ -1,0 +1,27 @@
+.site-banner {
+    padding: 0.3rem;
+    text-align: center;
+}
+.site-banner .site-button {
+    display: flex;
+    justify-content:space-evenly;
+    padding:0.5rem 3rem;
+}
+
+.site-banner .site-title h1 {
+    font-size: 5rem;
+}
+
+.site-banner .site-title h3 {
+    padding-top: 20%;
+    font-weight: 500;
+}
+
+.site-banner .site-title h4 {
+    font-size: 1.5rem;
+}
+
+.badge-text {
+    font-size: 0.7rem;
+    text-transform: lowercase;
+}
